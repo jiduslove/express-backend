@@ -19,4 +19,4 @@ router.delete("/:id", (req, res) => {
   res.send("유저 삭제");
 });
 
-module.exports = router; // export같은 개녕.
+module.exports = router; // export같은 개념.
